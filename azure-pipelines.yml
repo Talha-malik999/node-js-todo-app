@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  name: TALHA-PC
+  name: local
 
 steps:
 - task: NodeTool@0
